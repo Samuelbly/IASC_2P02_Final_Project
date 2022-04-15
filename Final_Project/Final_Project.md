@@ -65,6 +65,7 @@ Through the research I have conducted, figure #5 is the evidence that is needed 
 
 Figure # 5:
 !["Figure 5: Graph listed from most sold games to least sold."](./viz.png)
+
 Figure # 6:
 !["Figure 6: Picture of Legend of Zelda score on Metacritic"](./Zelda.png)
 
