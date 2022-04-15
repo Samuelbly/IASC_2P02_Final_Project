@@ -29,7 +29,7 @@ Nintendo is one of the most popular video game companies in the world and has be
  To make this research clean, understandable, and as accurate as possible, I have to use four websites Wikipedia, Google Sheets, Rawgraphs, and Metacritic. The website that I used to get the data on the most sold Nintendo Switch games was Wikipedia. 
 
 Figure # 1:
-!["Figure 1: Voyant-Tools generated word cloud from the Pandoc manual pages."](./Wikipedia.png)
+!["Figure 1: Wikipidia image of the most sold Nintendo Switch video games."](./Wikipedia.png)
 
 Wikipedia is an exceptionally reliable website when it is sourced and gives us consistent data as it shows where it got its references from and when it was updated, this helps give accurate and consistent information. 
 
@@ -39,7 +39,7 @@ Google Sheets is the next website I used to get the table from Wikipedia and cle
  
 
 Figure # 2:
-
+!["Figure 2: Google Sheets image of the most sold Nintendo Switch video games data, organized and cleaned"](./Google_Sheets_Table.png)
 
 In order to produce clean and accurate data, I have to organize and clean the table. It involved me organizing all of the dates as were in words instead of numbers, the names of the games had random asterisks that made the graph messy. The number of sales also had footnotes in the graph that I needed to get rid of to produce clean data.
 
@@ -47,57 +47,54 @@ In order to produce clean and accurate data, I have to organize and clean the ta
 The website I am using to place my data from Google Sheets to create this graph is a website called Rawgraphs which is used to create many kinds of organized tables of accurate data. 
 
 Figure # 3:
-
+!["Figure 3: Raw Graphs image of data to help make the graph."](./Raw_graphs.png)
 This website was able to help me get the picture of the graph and helped organize it to get clean and understandable data; it helped me organize the Nintendo Switch games that had the most sales to the games that had the least number of sales when it was announced to when it was released, as well as the companies who made the games. Rawgraphs helped also give it colour to show which titles of the games are mentioned.  
 
 This website helped me with organizing my theory, this website was called Metacritic. Metacritic is used to find ratings on anything you can look at reviews for all kinds of video games of different consoles and companies, movies and TV shows from different channels, and all kinds of music. 
 
 Figure # 4:
+!["Figure 4: Website I used to check the reviews of games."](./Metacritic.png)
 
 The way I am conducting this research is that I am picking games from the bottom or middle of the graph and comparing them to the most sold games and popular franchises. The only two popular franchises I am comparing are Legend of Zelda and Mario. Metacritic is useful because it uses people's reviews and sorts them by who is reviewing the game, what scores the game has, and what kind of reviews it gets.  
 
 The websites and the tools I am using to conduct this research are what is helping me make this experiment as accurate as possible. If researchers want to push these questions further or do their own research, then these websites and tools are highly recommended to produce accurate data. 
-
-## Data Collection
-Discribe where the data comes from. [^fn1]
-
-## Processing Data and Tool Use
 
 # Result
 
 Through the research I have conducted, figure #5 is the evidence that is needed to support my hypothesis. This shows that Nintendo games and reviews do not correlate with each other. Legend of Zelda Breath of the wild is one of the most popular Nintendo games, but Mario Kart 8 Deluxe has more sales. 
 
 Figure # 5:
-
+!["Figure 5: Graph listed from most sold games to least sold."](./viz.png)
 Figure # 6:
+!["Figure 6: Picture of Legend of Zelda score on Metacritic"](./Zelda.png)
+
 
 Figure # 7:
+!["Figure 7: Picture of Mario Kart score on Metacritic"](./Mario_Kart.png)
 
 Both game franchises are extremely popular, you can see in the graph above that Mario Kart has higher sales than Breath of the Wild (Metacritic.com, Metacritic, Metacritic). However, in these pictures from Metacritic, you can clearly see more people prefer Breath of the Wild than Mario Kart.  
 
 Pokémon is the most popular franchise in the world, Pokémon Sword and Shield is the fifth-highest game in terms of sales for the Nintendo company. However, Pokémon Sword and Shield have a lower rating than Xenoblade Chronicles Definitive Edition. On Metacritic, Xenoblade Chronicles is rated an 89 while Both Pokémon Sword and Shield is rated an 80. 
 
 Figure # 8: 
-
+!["Figure 8: Picture of Pokemon Sword score on Metacritic"](./Pokemon_sword.png)
 Figure # 9:
-
+!["Figure 9: Picture of Pokemon Shield score on Metacritic"](./Pokemon_Shield.png)
 Figure # 10:
-
+!["Figure 10: Picture of Xenoblade Chronicles score on Metacritic"](./Xenoblade_Chronicles.png)
 As stated before both Pokémon Sword and Shield is the fifth-highest sold game by Nintendo selling 23.9 million copies while Xenoblade Chronicles sold 1.52 million copies(Metacritic.com, Metacritic, Metacritic). This is proof that even a game that many people have not played or heard of can still have the potential to be as good or even better than a main franchise.  
 
 Astral Chain is a game that is not heard of by a lot of people, Pokémon Legends Arceus is a game that many people have heard of. If you look at the graph Pokémon Legends Arceus has exceedingly more sales than Astral Chain, but the biggest surprise is that on Metacritic Astral Chain is rated higher than Pokémon Legends Arceus.   
 
 Figure # 11: 
-
+!["Figure 11: Picture of Pokemon Legends Arceus score on Metacritic"](./Pokemon_Legends_arceus.png)
 Figure # 12:
-
+!["Figure 12: Picture of Astral Chain score on Metacritic"](./Astral_Chain.png)
 Pokémon Legends Arceus sold 6.5 million copies while Astral Chain sold 1.08 million copies (Metacritic.com, Metacritic, Metacritic). Astral Chain is a new game while Pokémon is a franchise that has been going on for a long time, yet this graph and these images show that a brand-new game can still be good and potentially better than some of the most popular franchises.    
 
 This research has provided durable evidence that game sales do not correlate with the reviews and sales are important for a successful game but it is not the only factor. 
 
-# Analysis
 
-This is my analysis.
 
 # Discussion
 
@@ -129,7 +126,7 @@ PATTNI, C. H. I. R. A. G. (2021, March 7). Nintendo games have become too easy: 
 
 # Notes
 
-[^fn1]: see https://wikipedia.org.
+[^fn1]: see https://en.wikipedia.org/wiki/List_of_best-selling_Nintendo_Switch_video_games
 
 
 
